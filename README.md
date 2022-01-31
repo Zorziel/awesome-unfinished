@@ -19,7 +19,7 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 
 
-# TV Shows
+## TV Shows
 
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
 - [Dark Matter](https://www.imdb.com/title/tt4159076) (2015-2017) - Six people wake up on a spaceship with no memory of who they are or their past, only to learn that they're the most wanted and dangerous assassins in the galaxy. This show also had one of the best android characters in the aughts television. 
@@ -39,16 +39,13 @@ Firefly
 
 -->
 
-# Books
+## Books
 
 
-# Movies
+## Games
 
 
-# Games
-
-
-# Hardware
+## Hardware
 
 
 
