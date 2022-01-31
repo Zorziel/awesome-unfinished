@@ -20,7 +20,16 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 
 # TV Shows
- ...
+
+
+[SUBMITTED]: # (2022-01-30 - @Zorziel)
+- [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Gritty, clever, fun space western that still holds up today, regardless of Joss Whedon's involvement.  
+
+
+
+
+
+
 <!-- Placeholders: 
 
 Dark Matter
