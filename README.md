@@ -1,29 +1,43 @@
 # Awesome Unfinished [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->A curated list of unfinished awesome works and projects. 
+>A curated list of awesome but forever unfinished works and projects. 
 
 
-For this list, `unfinished` means any awesome work or project that is not complete and can _never_ be finished.   
+## What is Unfinished?
+In the context of this list, `Unfinished` refers to any awesome work or project that can be consumed can _**never**_  be completed.   This can refer to TV shows, book series, symphonies, video games, or any other substantial effort that was at least partially avaiable to the public or community but all further work has been halted permanently.  
 
-Works or projects include: services, games, hardware, movies, tv shows, or books.  The reason that they are unfinished (cancelled, terminated, passing of the author, etc) doesn't matter, as long as it will **remain unfinished**.  Items listed here can _never_ be completed in their original or derivitive form.  This list should not include any works or projects that are still in development or have an active fork, as well as series which are waiting for the next release where the authors are still ative. 
+## What isn't Unfinished?
+This list should not include any works or projects that are still in development, have an active fork, has upstream activity, is related to a book series where the author is still alive, or any other situation where the possibility for that work or project to finish still exists.  
 
 
-# Contents 
+# Contributing
+All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
 
-tbd
+
+# Content
+
 
 
 
 # TV Shows
+ ...
+<!-- Placeholders: 
 
+Dark Matter
+Firefly 
+
+-->
 
 # Books
 
+
 # Movies
+
 
 # Games
 
-# Software Projects 
 
 # Hardware
+
+
 
