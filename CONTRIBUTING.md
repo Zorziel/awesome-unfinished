@@ -17,7 +17,7 @@ Contributions are welcome!
 
 ## Submission Format
 
-**NOTE: This process is under review.  Please see https://github.com/Zorziel/awesome-unfinished/issues/1**
+**NOTE: This process is under [review](https://github.com/Zorziel/awesome-unfinished/issues/1).**  
 
 
 ```markdown
@@ -33,15 +33,15 @@ and one of:
 
 **Initial  submission:**  
 ```markdown
-[Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.  
-
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
+- [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.  
+
+
 ```
 **Update submission:**  
 ```markdown
-[Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Ignoring Joss Whedon's awfulness, this space western still hold up today.  Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.  
-
 [UPDATED]: # (2022-01-30 - @Zorziel)
+- [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Ignoring Joss Whedon's awfulness, this space western still hold up today.  Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.  
 
 ```
 
