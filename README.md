@@ -9,13 +9,18 @@
 ## What isn't Unfinished?
 This list should not include any works or projects that are still in development, have an active fork, has upstream activity, is related to a book series where the author is still alive, or any other situation where the possibility for that work or project to resume work in its current state still exists.  
 
+### What if I Don't Know if Something is Unfinished?
+If you are unsure if something is actually `unfinished` just submit an [issue](https://github.com/Zorziel/awesome-unfinished/issues) and we'll help investigate!
 
 # Contributing
 All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
 
 
 # Content
-
+- [TV Shows](#tv-shows)
+- [Books](#books)
+- [Games](#games)
+- [Hardware](#hardware)
 
 
 
