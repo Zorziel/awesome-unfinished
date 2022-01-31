@@ -32,17 +32,10 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
 - [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Gritty, clever, fun space western that still holds up today, regardless of Joss Whedon's involvement.  
 
+[SUBMITTED]: # (2022-01-30 - @Zorziel)
+- [The Order](https://www.imdb.com/title/tt8295472) (2019-2020) - Brighter, more action-oriented, and better acted than The Magicians, this "magic is real" show also has warewolves. 
 
 
-
-
-
-<!-- Placeholders: 
-
-Dark Matter
-Firefly 
-
--->
 
 ## Books
 
