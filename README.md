@@ -30,6 +30,9 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 - [Dark Matter](https://www.imdb.com/title/tt4159076) (2015-2017) - Six people wake up on a spaceship with no memory of who they are or their past, only to learn that they're the most wanted and dangerous assassins in the galaxy. This show also had one of the best android characters in the aughts television. 
 
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
+- [Dirk Gently's Holistic Detective Agency](https://www.imdb.com/title/tt4047038/) (2016-2017) - This Elijah Wood-lead take on the Douglas Adams novel series was quirky, fun, engaging, and only got better with each new episode.
+
+[SUBMITTED]: # (2022-01-30 - @Zorziel)
 - [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) - Gritty, clever, fun space western that still holds up today, regardless of Joss Whedon's involvement.  
 
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
