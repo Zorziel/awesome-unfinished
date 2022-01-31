@@ -6,7 +6,7 @@ Contributions are welcome!
 
 - You should have consumed or used the content you're suggesting.
 - Make an individual pull request for each suggestion.
-- Use the [submissioin format](#submission-format-guidelines) as described in this guide. 
+- Use the [submissioin format](#submission-format) as described in this guide. 
 - Please add the entry in the correct section, in alphabetical order.
 - Start the description with a capital and end with a full stop/period.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -15,10 +15,10 @@ Contributions are welcome!
 - Pull Requests without a personal comment will not be accepted until one is added.
 - Please follow all additional guidelines for the medium as listed in the sections below.
 
-## Submission Format Guidelines
-*NOTE: This process is under review.  Please see #1. *
+## Submission Format
 
-Please use the following format for each submission: 
+**NOTE: This process is under review.  Please see https://github.com/Zorziel/awesome-unfinished/issues/1**
+
 
 ```markdown
 [WORK_TITLE_OR_NAME](URL) (year(s)) - Awesome description or the IMDb/GoodReads/Wikipedia synopsis here.  
