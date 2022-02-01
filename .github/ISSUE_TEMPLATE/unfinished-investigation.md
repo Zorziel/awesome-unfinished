@@ -1,7 +1,7 @@
 ---
 name: Unfinished Investigation
 about: Issue for investigating if something is unfinished
-title: INVESTIGATION - [TITLE]
+title: INVESTIGATION - TITLE
 labels: help wanted, is this "unfinished"?, question
 assignees: ''
 
