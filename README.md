@@ -3,20 +3,16 @@
 >A curated list of awesome but forever unfinished works and projects. 
 
 
-## What is Unfinished?
 `Unfinished` refers to any awesome work or project that can be consumed but can _**never**_ be completed.   This can refer to a TV show, a book series, a symphony, a video game, or any other substantial effort that was at least partially avaiable to the public or community but all further work has been halted permanently.  
 
-## What isn't Unfinished?
-This list should not include any works or projects that are still in development, have an active fork, has upstream activity, is related to a book series where the author is still alive, or any other situation where the possibility for that work or project to resume work in its current state still exists.  
+Unfinished is *not* any work or project that is still in development, has activity upstream or downstream, is related to a book series where the author is still alive, or any other situation where the possibility for that work or project to resume activity in its current state still exists.  
 
-**What if I Don't Know if Something is Unfinished?** 
-If you are unsure if something is actually `unfinished` just submit an [issue](https://github.com/Zorziel/awesome-unfinished/issues) and we'll help investigate!
-
-# Contributing
-All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
+If you are unsure if something is actually unfinished just submit an [issue](https://github.com/Zorziel/awesome-unfinished/issues) and we'll help investigate!
 
 
-# Content
+
+
+## Content
 - [TV Shows](#tv-shows)
 - [Books](#books)
 - [Games](#games)
@@ -48,5 +44,6 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 ## Hardware
 
-
+# Contributing
+All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
 
