@@ -1,7 +1,7 @@
 ---
 name: Unfinished Investigation
 about: Issue for investigating if something is unfinished
-title: [INVESTIGATION] - PUT_WORK_OR_PROJECT_NAME_HERE
+title: INVESTIGATION - PUT_WORK_OR_PROJECT_NAME_HERE
 labels: help wanted, is this "unfinished"?, question
 assignees: ''
 
