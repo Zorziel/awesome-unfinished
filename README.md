@@ -3,7 +3,7 @@
 >A curated list of awesome but forever unfinished works and projects. 
 
 
-`Unfinished` refers to any awesome work or project that can be consumed but can _**never**_ be completed.   This can refer to a TV show, a book series, a symphony, a video game, or any other substantial effort that was at least partially avaiable to the public or community but all further work has been halted permanently.  
+Unfinished refers to any awesome work or project that can be consumed but can _**never**_ be completed.   This can refer to a TV show, a book series, a symphony, a video game, or any other substantial effort that was at least partially avaiable to the public or community but all further work has been halted permanently.  
 
 Unfinished is *not* any work or project that is still in development, has activity upstream or downstream, is related to a book series where the author is still alive, or any other situation where the possibility for that work or project to resume activity in its current state still exists.  
 
