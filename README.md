@@ -1,4 +1,5 @@
-# Awesome Unfinished [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Unfinished [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
 
 >A curated list of awesome but forever unfinished works and projects. 
 
@@ -10,17 +11,21 @@ Unfinished is *not* any work or project that is still in development, has activi
 If you are unsure if something is actually unfinished just submit an [issue](https://github.com/Zorziel/awesome-unfinished/issues) and we'll help investigate!
 
 
-
-##### Contributing
-All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
-
+---
 
 
 ## Content
-- [TV Shows](#tv-shows)
+
 - [Books](#books)
 - [Games](#games)
 - [Hardware](#hardware)
+- [TV Shows](#tv-shows)
+
+
+## Books
+
+[SUBMITTED]: # (2022-02-02 - @Zorziel)
+- [The Trial](https://en.wikipedia.org/wiki/The_Trial) (Franz Kafka) - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  
 
 
 
@@ -40,15 +45,17 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 
 
-## Books
-
-[SUBMITTED]: # (2022-02-02 - @Zorziel)
-- [The Trial](https://en.wikipedia.org/wiki/The_Trial) - Franz Kafka - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  
-
-
 
 ## Games
 
 
 ## Hardware
+
+
+# Other Lists
+
+
+
+# Contributing 
+All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
 
