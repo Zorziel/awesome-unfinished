@@ -42,6 +42,10 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 ## Books
 
+[SUBMITTED]: # (2022-02-02 - @Zorziel)
+- [The Trial](https://en.wikipedia.org/wiki/The_Trial) - Franz Kafka - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  
+
+
 
 ## Games
 
