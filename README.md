@@ -22,14 +22,14 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 - [TV Shows](#tv-shows)
 
 
-## Books
+### Books
 
 [SUBMITTED]: # (2022-02-02 - @Zorziel)
 - [The Trial](https://en.wikipedia.org/wiki/The_Trial) (Franz Kafka) - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  
 
 
 
-## TV Shows
+### TV Shows
 
 [SUBMITTED]: # (2022-01-30 - @Zorziel)
 - [Dark Matter](https://www.imdb.com/title/tt4159076) (2015-2017) **[7.5]** - Six people wake up on a spaceship with no memory of who they are or their past, only to learn that they're the most wanted and dangerous assassins in the galaxy. This show also had one of the best android characters in the aughts television. ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=for-the-badge&logo=appveyor) 
@@ -46,16 +46,19 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 
 
-## Games
+### Games
 
 
-## Hardware
-
-
-# Other Lists
+### Hardware
 
 
 
-# Contributing 
+
+## Contributing 
 All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
+
+
+## Other Lists
+
+
 
