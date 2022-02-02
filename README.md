@@ -25,7 +25,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 ### Books
 
 [SUBMITTED]: # (2022-02-02 - @Zorziel)
-- [The Trial](https://en.wikipedia.org/wiki/The_Trial) (Franz Kafka) - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Death%20of%20Authror-grey?style=plastic)
+- [The Trial](https://en.wikipedia.org/wiki/The_Trial) (Franz Kafka) - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Death%20of%20Author-grey?style=plastic)
 
 
 
