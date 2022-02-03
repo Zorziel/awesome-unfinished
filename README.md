@@ -24,7 +24,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 ### Books
 
-- [Der Process (The Trial)](https://en.wikipedia.org/wiki/The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
+- [Der Process (The Trial)](https://www.goodreads.com/book/show/17690.The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* **[3.96]**- The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
 
 
 
@@ -37,7 +37,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 ### TV Shows
 
-- [Dark Matter](https://www.imdb.com/title/tt4159076) (2015-2017) **[7.5]** - Six people wake up on a spaceship with no memory of who they are or their past, only to learn that they're the most wanted and dangerous assassins in the galaxy. This show also had one of the best android characters in the aughts television. ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=plastic) ![reason](https://img.shields.io/badge/Reason-Assets%20Sold-purple.svg?style=plastic) 
+- [Dark Matter](https://www.imdb.com/title/tt4159076) (2015-2017) **[7.5]** - Six people wake up on a spaceship with no memory of who they are or their past, only to learn that they're the most wanted and dangerous assassins in the galaxy. This show also had one of the best android characters in the aughts television. ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=plastic) ![reason](https://img.shields.io/badge/Reason-Assets%20Sold-purple.svg?style=plastic) ![reason](https://img.shields.io/badge/Reason-Sets%20Destroyed-orange.svg?style=plastic) 
 
 - [Dirk Gently's Holistic Detective Agency](https://www.imdb.com/title/tt4047038/) (2016-2017) **[8.2]** - This Elijah Wood-lead take on the Douglas Adams novel series was quirky, fun, engaging, and only got better with each new episode.  ![reason](https://img.shields.io/badge/Reason-Lost%20Popularity-blue.svg?style=plastic)
 
