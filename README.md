@@ -43,6 +43,8 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 - [Firefly](https://www.imdb.com/title/tt0303461/) (2002-2003) **[9.0]** - Gripping, clever, fun space western that still holds up today, regardless of Joss Whedon's involvement. ![reason](https://img.shields.io/badge/Reason-Production%20Error-orange.svg?style=plastic)  
 
+- [Happy!](https://www.imdb.com/title/tt2452242/) (2017-2019) **[8.2]** -  An injured hitman befriends his kidnapped daughter's imaginary friend - a perky blue flying unicorn. ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=plastic) 
+
 - [The Order](https://www.imdb.com/title/tt8295472) (2019-2020) **[6.8]** - Brighter, more action-oriented, and better acted than The Magicians, this "magic is real" show also has warewolves.  ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=plastic) 
 
 
