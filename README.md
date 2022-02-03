@@ -56,5 +56,12 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 
 ## Other Lists
 
+- [Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi#readme) - Sci-Fi worth consuming.
+- [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme) - Fantasy literature worth reading.
+- [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
+- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme) - Creative Commons licensed media.
+
+
+
 
 
