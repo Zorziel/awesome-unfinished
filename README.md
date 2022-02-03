@@ -25,7 +25,14 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 ### Books
 
 [SUBMITTED]: # (2022-02-02 - @Zorziel)
-- [The Trial](https://en.wikipedia.org/wiki/The_Trial) (Franz Kafka) - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-grey?style=plastic)
+- [Der Process (The Trial)](https://en.wikipedia.org/wiki/The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
+
+
+
+### Games
+
+
+### Hardware
 
 
 
@@ -44,12 +51,6 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 - [The Order](https://www.imdb.com/title/tt8295472) (2019-2020) **[6.8]** - Brighter, more action-oriented, and better acted than The Magicians, this "magic is real" show also has warewolves.  ![reason](https://img.shields.io/badge/Reason-Show%20Cancelled-red.svg?style=plastic) 
 
 
-
-
-### Games
-
-
-### Hardware
 
 
 
