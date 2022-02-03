@@ -6,7 +6,7 @@ Contributions are welcome!
 
 - **You should have consumed or used the content you're suggesting.**
 - Make an individual pull request for each suggestion.
-- Use the [submissioin format](#submission-format) as described in this guide. 
+- Use the [submission format](#submission-format) as described in this guide. 
 - Please add the entry in the correct section, in alphabetical order.
 - Start the description with a capital and end with a full stop/period.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
