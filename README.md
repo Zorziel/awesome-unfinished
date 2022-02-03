@@ -18,7 +18,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 - [Books](#books)
 - [Games](#games)
-- [Hardware](#hardware)
+- [Music](#music)
 - [TV Shows](#tv-shows)
 
 
@@ -31,7 +31,9 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 ### Games
 
 
-### Hardware
+### Music
+
+- [Requiem](https://en.wikipedia.org/wiki/Requiem_(Mozart)) (1791) *by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)* - The Requiem in D minor, K. 626, is a requiem mass by Wolfgang Amadeus Mozart. Mozart composed part of the Requiem in Vienna in late 1791, but it was unfinished at his death on 5 December the same year. ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Composer-brown?style=plastic)
 
 
 
