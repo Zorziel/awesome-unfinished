@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Contributions are welcome! 
+All conmtributions are welcome.  Please read the guidelines below for instructions.  If you have any questions, please submit an issue.  
 
 ## General Guidelines
 
@@ -13,10 +13,12 @@ Contributions are welcome!
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
 - Pull Requests without a personal comment will not be accepted until one is added.
-- The entry should contain the title and author links, first publication year, rating, description and your personal commentary.
+- The entry should contain the title and author links, publication year or year span, rating, and official description or summary.
   - For the url links for titles and authors, use Goodreads or Wikipedia. Either is fine, choose the one with the better coverage.
-  - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
+  - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.  
   - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com) and link to the IMDb entry.
+  - For TV shows, include the start and end years (YYYY-YYYY).  
+- Badges can be added to each entry to denote the reason for the entry being unfinished. Please use one badge per reason.  Multiple badges are acceptable if there are multiple reasons for something being unfinished.
 - Please follow all additional guidelines for the medium as listed in the sections below.
 
 ## Submission Format
@@ -25,7 +27,7 @@ Contributions are welcome!
 
 
 ```markdown
-[WORK_TITLE_OR_NAME](URL) (year(s)) [SCORE] - Awesome description or the IMDb/GoodReads/Wikipedia synopsis here.  {BADGE_INDICATING_UNFINISHED_REASON}
+[WORK_TITLE_OR_NAME](URL) (year(s)) [SCORE] - IMDb/GoodReads/Wikipedia summary or synopsis here.  {BADGE(S)}
 ```
 
 ### Example Submission
