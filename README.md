@@ -36,6 +36,9 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 - [Requiem](https://en.wikipedia.org/wiki/Requiem_(Mozart)) (1791) *by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)* - The Requiem in D minor, K. 626, is a requiem mass by Wolfgang Amadeus Mozart. Mozart composed part of the Requiem in Vienna in late 1791, but it was unfinished at his death on 5 December the same year. ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Composer-brown?style=plastic)
 
 
+### Paintings
+
+- [Treaty of Paris](https://en.wikipedia.org/wiki/Treaty_of_Paris_(painting)) (1783) *by [Benjamin West](https://en.wikipedia.org/wiki/Benjamin_West)* - This painting depicts the United States delegation preparing to further negotiate and sign the 1783 Treaty of Paris and formally end the American Revolutionary War. Before ending the American Revolution, John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin posed for the painting. The British delegation refused to pose, and the painting was never completed. ![Reason](https://img.shields.io/badge/Reason-End%20of%20Revolutionary%20War-brown?style=plastic)
 
 ### TV Shows
 
