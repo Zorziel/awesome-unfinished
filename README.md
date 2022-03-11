@@ -1,7 +1,7 @@
-# Awesome Unfinished [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+Awesome Unfinished [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+===
 
-
->A curated list of awesome but forever unfinished works and projects. 
+> A curated list of awesome but forever unfinished works and projects. 
 
 Unfinished refers to any awesome work or project that can be consumed but can _**never**_ be completed.   This can refer to a TV show, a book series, a symphony, a video game, or any other substantial effort that was at least partially avaiable to the public or community but all further work has been halted permanently.  
 
@@ -9,8 +9,6 @@ Unfinished is *not* any work or project that is still in development, has activi
 
 If you are unsure if something is actually unfinished just submit an [issue](https://github.com/Zorziel/awesome-unfinished/issues) and we'll help investigate!
 
-
----
 
 
 ## Content
@@ -23,7 +21,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 
 ### Books
-- [Der Process (The Trial)](https://www.goodreads.com/book/show/17690.The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* **[3.96]**- The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
+- [Der Process (The Trial)](https://www.goodreads.com/book/show/17690.The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* **[3.96]** - The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
 
 
 
@@ -52,8 +50,6 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 
 
-
-
 ## Contributing 
 All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contributions](CONTRIBUTING.md) are welcome.  
 
@@ -63,8 +59,5 @@ All [feedback](https://github.com/Zorziel/awesome-unfinished/issues) and [contri
 - [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme) - Fantasy literature worth reading.
 - [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme) - Creative Commons licensed media.
-
-
-
 
 
