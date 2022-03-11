@@ -19,6 +19,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 - [Books](#books)
 - [Games](#games)
 - [Music](#music)
+- [Paintings](#paintings)
 - [TV Shows](#tv-shows)
 
 
