@@ -23,6 +23,7 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 - [TV Shows](#tv-shows)
 
 
+
 ### Books
 
 - [Der Process (The Trial)](https://www.goodreads.com/book/show/17690.The_Trial) *by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)* **[3.96]**- The terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information.  ![Reason](https://img.shields.io/badge/Reason-Death%20of%20Author-brown?style=plastic)
@@ -30,6 +31,8 @@ If you are unsure if something is actually unfinished just submit an [issue](htt
 
 
 ### Games
+
+- [Mythos](https://en.wikipedia.org/wiki/Mythos_(video_game)) (2012-2014) *by [Flagship Supdios](https://en.wikipedia.org/wiki/Flagship_Studios)* - Mythos was a multiplayer role-playing video game that started as a network technology test for Flagship Studios' multiplayer game Hellgate: London.  Myhos' development was led by Travis Baldree, creator of the action RPG FATE, working with a development team largely composed of ex-Blizzard North employees, who were lead producers of the Diablo series. ![Reason](https://img.shields.io/badge/Reason-Studio%20Closed-yellow?style=plastic) ![Reason](https://img.shields.io/badge/Reason-Assets%20Sold-purple?style=plastic) ![Reason](https://img.shields.io/badge/Reason-IP%20Sold-teal?style=plastic)
 
 
 ### Music
